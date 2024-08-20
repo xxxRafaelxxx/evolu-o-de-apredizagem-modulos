@@ -2,6 +2,7 @@
 
 # evolucao-de-aprendizagem-modulos- 3 e 4
 
+<details>
 <summary>Modulo 03</summary>
 
 # EXEMPLO - Conteúdo modelo no GitHub
@@ -46,10 +47,8 @@
 - Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
 
 
-<details>
-
   
-<summary>Modulo 03</summary>
+<summary>Modulo 04</summary>
 
 # EXEMPLO - Conteúdo modelo no GitHub
 
