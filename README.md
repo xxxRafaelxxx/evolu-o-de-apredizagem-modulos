@@ -25,31 +25,42 @@
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+-  Eu sei que é uma forma de testar o seu codigo de um jeito mais pratico e rapido
+- Sei que é onde o Back-end realmente começa.
+- Eu sei que é uma plataforma onde se pode postar os seus projetos e serve como um curriculo para devs.
+- Eu sei que são coisas importantes para um servidor.
+- Eu sei que API-Rest é tipo uma aplicação parecido ou é a mesma coisa que um servidor.
+- Sei que se fala muito em POO e possui linguagens que utilizam isso mais que as outras.
+- Eu sei que é importante estar atento na evolução da tecnologia,pois ela esta em constante mudança.
+- Eu sei que a comunicação no trabalho é utilizada para saber sobre estagios de projetos,atividades e etc.
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+- Quero aprender a melhor forma de utilizar testes automatizados.
+- Quero entender como o back funciona na pratica utilizando um servidor.
+- Gostaria de saber como melhorar o meu github.
+- Gostaria de saber se a documentação pode realmente me ajudar a melhorar o meu codigo.
+- Quero saber a importacia das rotas,intermediarios econtroladores na pratica.
+- Quero aprender o porque de Poo ser tão falada e utilizda.
+- Quero aprender porque utilizar Herança e Polimorfismo seriam uma boa forma de se tratar erros.
+- Eu gostaria de saber porque utilizar codigos assincronos ao inves de sincronos 
+- Gostaria de saber como a comunicação se torna fundamental no ambiente de trabalho com tecnologia
+- Quero saber como posso me expressar melhor.
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+-  Ao estudar testes automatizados.Aprendi que eles garantem que tudo esteja funcionando conforme o esperado, me dando confiança para avançar sem medo de que algo possa dar errado mais adiante. Além disso, economizam tempo e esforço, permitindo que eu me concentre em outros aspectos  do desenvolvimento.
+- Vi que com o npm eu poderia acessar varias bibliotecas que facilitariam a criação de um servidor para o back-end.
+- Eu apredi que Api é um conjunto de intruçoes que determina como se comunicar com uma aplicação e Rest é o conjunto de restrições de arquitetura que pode ser usadas para construção de Apis's.
+- Aprendi que Orientação a Objetos é um paradigma de programação que utiliza "objetos" para organizar e estruturar o código,ela possui algums conceitos como Polimorfismo,Abstração,Herança,Encapsulamento e classes.
+- Eu aprendi a tirar o maior proveito das documentações dos frameworks, ferramentas e etc,de forma que eu cosiga ter mais independecia na horas de trabalhar com uma certa tecnologia.
+- Aprendi que o assincronismo permite que um programa execute operações de forma não bloqueante. Em vez de esperar que uma operação, como leitura de um arquivo ou uma solicitação de rede, seja concluída antes de continuar com o restante do código, o programa pode continuar executando outras tarefas enquanto espera a operação assíncrona terminar.
+-Vi que utilizando herança e polimorfismo, posso criar sistemas que não apenas sobrevivem a falhas, mas que também são capazes de se adaptar e continuar funcionando. Isso garante uma experiência de usuário mais suave, mesmo quando algo inesperado acontece.
+-Aprendi a preparar o meu github,para de forma a deixa-lo mais chamativo e fazer com que eu tenha mais notoriedade conseguentemente.
+- Na programação, percebi que a comunicação é tão importante quanto o próprio código. Saber expressar ideias, trocar conhecimentos e resolver problemas em conjunto são habilidades que fazem toda a diferença.
+- Eu aprendi a importância de observar padrões comportamentais e reconhecer as minhas emoções para cultivar relacionamentos saudáveis e aprimorar minhas habilidades sociais.
+
+
 </details>
 
 <details>
@@ -76,30 +87,14 @@
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
-- Soft skills são habilidades importantes no ambiente de trabalho, como comunicação e trabalho em equipe.
-- LinkedIn é uma plataforma onde as pessoas podem criar perfis profissionais e se conectar com outras na área.
-- Ética em tecnologia refere-se a tomar boas decisões sobre como usar a tecnologia de maneira justa e segura.
-- Gestão de tempo envolve organizar suas tarefas de forma eficaz para fazer o melhor uso do tempo.
-- Git básico é uma ferramenta usada para controlar as diferentes versões de um projeto de software.
-- TypeScript é uma linguagem de programação relacionada ao JavaScript.
-- Métodos de strings são maneiras de manipular texto em programação.
+
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
 
-- Como posso desenvolver minhas habilidades de gestão de tempo e aplicá-las em meu dia a dia?
-- Quero entender como criar um perfil no LinkedIn e como ele pode me ajudar a encontrar oportunidades de emprego.
-- Gostaria de entender melhor o que é ética em tecnologia e por que é importante.
-- Quero entender como o Git funciona e como posso começar a usá-lo para controlar meus projetos de programação.
-- Gostaria de aprender os conceitos básicos de TypeScript e como ele se diferencia do JavaScript.
-- Quero saber o que são métodos de arrays.
+
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
-- Aprendi como criar um perfil no LinkedIn e adicionar minhas habilidades e experiências para compartilhar com outras pessoas.
-- Entendi que ética em tecnologia significa pensar sobre as consequências de nossas ações tecnológicas e agir de maneira responsável.
-- Aprendi algumas estratégias simples de gerenciamento de tempo, como fazer listas de tarefas e definir prioridades.
-- Aprendi como usar o Git para controlar as diferentes versões de um projeto e colaborar com outras pessoas.
-- Aprendi alguns métodos básicos de strings, como concatenar e dividir texto.
-- Aprendi alguns métodos básicos de arrays, como adicionar e remover itens de uma lista.
+
 
 </details>
