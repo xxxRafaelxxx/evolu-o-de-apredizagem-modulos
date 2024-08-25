@@ -76,7 +76,6 @@
 - Consultas SQL;
 - Modelagem de Dados;
 - CRUD SQL;
-- Agrupamento e relacionamentos entre tabelas;
 - Marca pessoal e plano de carreira.
 - Conexão Node.js com PostgreSQL;
 - Autenticação e criptografia;
@@ -87,6 +86,10 @@
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
+- Sei que docker é como se fosse uma maquina virtual;
+- Eu sei que é utilizada para organizar um projeto;
+- Sei que é o SQL é uma linguagem padrão para criação e manipulação de bancos de dados;
+- 
 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
