@@ -76,28 +76,53 @@
 - Consultas SQL;
 - Modelagem de Dados;
 - CRUD SQL;
-- Marca pessoal e plano de carreira.
 - Conexão Node.js com PostgreSQL;
 - Autenticação e criptografia;
 - Integração com API de terceiros;
 - Git e fluxo de trabalho em equipe;
-- Diversidade e inclusão em tecnologia;
 
 
 ## O que eu já sei sobre os assuntos que serão abordados nesse módulo?
 
 - Sei que docker é como se fosse uma maquina virtual;
+- Eu sei que o banco de dados serve para guardar os dados dos usuarios;
 - Eu sei que é utilizada para organizar um projeto;
 - Sei que é o SQL é uma linguagem padrão para criação e manipulação de bancos de dados;
-- 
+- Não sei sobre modelagem de dados;
+- Não sei sobre CRUD
+- Conexão Node.js com PostgreSQL sei que vai ser utilizado para comunicar o codigo do back com o banco de dados;
+- Eu sei que Autenticação e criptografia são utilizados para dar mais segurança ao usuario;
+- Integração com API de terceiros apenas sei ser possível, mas não sei como fazer essa conexão;
+- Eu sei que o git tambem ajuda na construção de um projeto em equipe;
 
 
 ## O que quero aprender sobre os assuntos que serão abordados nesse módulo?
+
+- Quero aprender como utilizar o Docker;
+- Eu gostaria de saber como criar e utilizar um banco de dados em um projeto;
+- Eu gostaria de aprender mais sobre práticas e princípios que auxiliem no desenvolvimento de projetos em equipe;
+- Quero aprender como utilizar a linguagem sql;
+- Quero aprender o que é Modelagem de Dados;
+- Quero aprender o que éCRUD SQL;
+- Eu gostaria de saber como faz e funciona a conexão node.js com o postgreSQL;
+- Eu quero saber quais ferramentas são utilizadas e como é feita a autenticação e criptografia;
+- Gostaria de saber como é feita a integração e porque eu faria ela;
+- Quero aprender a utilizar o git para trabalhar com varias pessoas em um mesmo projeto;
 
 
 
 ## Minha evolução: o que aprendi sobre os assuntos que foram abordados nesse módulo?
 
+- Eu aprendi
+- Introdução a Banco de Dados;
+- Metodologias Ágeis;
+- Consultas SQL;
+- Modelagem de Dados;
+- CRUD SQL;
+- Conexão Node.js com PostgreSQL;
+- Autenticação e criptografia;
+- Integração com API de terceiros;
+- Git e fluxo de trabalho em equipe;
 
 
 </details>
